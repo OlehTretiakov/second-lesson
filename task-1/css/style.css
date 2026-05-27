@@ -1,0 +1,15 @@
+
+.product-card {
+    padding: 20px;
+    margin: 10px;
+    background-color: #9fdbf9;
+}
+.product-card h2 {
+    background-color: #79cef9;
+}
+.product-card p {
+    background-color: #79cef9;
+}
+.product-card button {
+    background-color: #79cef9;
+}
